@@ -1,0 +1,8 @@
+.Detail{
+    width: 87%;
+    margin:100px auto;
+}
+.grid{
+    display:flex;
+    justify-content:space-between
+}
